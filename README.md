@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-📌 See the pinned repositories for projects I made!
+📌 See the pinned repositories for a selection of projects I made!
 
 👇 See the following overview of my badges!
 
