@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-🐕‍🦺 My projecs:
+🐕‍🦺 My projects:
 
 - [Bank API 🏦](https://github.com/erwinkramer/bank-api) - Design reference project suitable to bootstrap development for a compliant and modern API.
 - [Synology NAS Bootstrapper ✴](https://github.com/erwinkramer/synology-nas-bootstrapper) - Bootstrap your Synology NAS setup with automatic provisioning.
