@@ -13,6 +13,6 @@
 - [Azure Functions Flex Consumption - Migration Guide](https://github.com/erwinkramer/azure-functions-flex-consumption-migration-guide) - How to migrate to Azure Functions Flex Consumption plan hosting.
 - [Traffic filtering with Azure attribute-based access control (Azure ABAC)](https://github.com/erwinkramer/traffic-filtering-with-azure-attribute-based-access-control-ABAC) - How traffic filtering can be solved with Azure ABAC.
 
-🪪 My badges:
+🎴 My badges:
 
 [![An image of @erwinkramer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/erwinkramer)](https://holopin.io/@erwinkramer)
