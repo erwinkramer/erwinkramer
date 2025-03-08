@@ -3,7 +3,7 @@
 🐕‍🦺 My projects:
 
 - [Bank API 🏦](https://github.com/erwinkramer/bank-api) - Design reference project suitable to bootstrap development for a compliant and modern API.
-- [Streaming logs from LAW to a Kusto Cluster 🤽🏻‍♂️](https://github.com/erwinkramer/kusto-event-hub-law) - IaC setup for Log Analytics Workspace export to Event Hub to Kusto Cluster.
+- [Streaming logs to a Kusto Cluster 🤽🏻‍♂️](https://github.com/erwinkramer/kusto-event-hub-law) - Design and IaC setup for streaming various logs to a Kusto Cluster.
 - [Synology NAS Bootstrapper ✴](https://github.com/erwinkramer/synology-nas-bootstrapper) - Bootstrap your Synology NAS setup with automatic provisioning.
 - [NixOS VSCode Speedrun 🏁](https://github.com/erwinkramer/xnos) - Get up to speed with NixOS on WSL2 with the VSCode Nix IDE.
 - [Motorola Debloat List 🌱](https://github.com/erwinkramer/motorola-debloat-list) - Just a small list of apps you might want to remove from a Motorola phone.
