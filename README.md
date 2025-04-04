@@ -4,6 +4,7 @@
 
 - [Bank API 🏦](https://github.com/erwinkramer/bank-api) - Design reference project suitable to bootstrap development for a compliant and modern API.
 - [Streaming logs to a Kusto Cluster 🤽🏻‍♂️](https://github.com/erwinkramer/kusto-event-hub-law) - Design and IaC setup for streaming various logs to a Kusto Cluster.
+- [Azure Pipelines Spectral Lint Task 👒](https://github.com/erwinkramer/ado-spectral) - Spectral Lint Task available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=erwinkramer.SpectralLint).
 - [Synology NAS Bootstrapper ✴](https://github.com/erwinkramer/synology-nas-bootstrapper) - Bootstrap your Synology NAS setup with automatic provisioning.
 - [NixOS VSCode Speedrun 🏁](https://github.com/erwinkramer/xnos) - Get up to speed with NixOS on WSL2 with the VSCode Nix IDE.
 - [Motorola Debloat List 🌱](https://github.com/erwinkramer/motorola-debloat-list) - Just a small list of apps you might want to remove from a Motorola phone.
