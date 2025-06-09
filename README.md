@@ -9,6 +9,7 @@
 - [Synology NAS Bootstrapper ✴](https://github.com/erwinkramer/synology-nas-bootstrapper) - Bootstrap your Synology NAS setup with automatic provisioning.
 - [NixOS VSCode Speedrun 🏁](https://github.com/erwinkramer/xnos) - Get up to speed with NixOS on WSL2 with the VSCode Nix IDE.
 - [Motorola Debloat List 🌱](https://github.com/erwinkramer/motorola-debloat-list) - Just a small list of apps you might want to remove from a Motorola phone.
+- [Synapse DEP-enabled workspace with secure Azure Function calls via Data flows 🌊](https://github.com/erwinkramer/synapse-dep-data-flows-func) - Securely call Azure Functions in Synapse Data flows.
 - [Bicep#](https://github.com/erwinkramer/bicep-sharp) - Functional framework designed to streamline the use of Azure Bicep.
 - [Reference architecture for secure cross-tenant API traffic](https://github.com/erwinkramer/reference-architecture-secure-cross-tenant-API-traffic) - Architecture for secure cross-tenant API traffic.
 - [Graph Lite](https://github.com/erwinkramer/msgraph-lite) - Simplifies the Microsoft Graph API.
