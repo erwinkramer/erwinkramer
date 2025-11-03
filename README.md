@@ -19,11 +19,12 @@
 - [Azure Functions Flex Consumption - Migration Guide](https://github.com/erwinkramer/azure-functions-flex-consumption-migration-guide) - How to migrate to Azure Functions Flex Consumption plan hosting.
 - [Traffic filtering with Azure attribute-based access control (Azure ABAC)](https://github.com/erwinkramer/traffic-filtering-with-azure-attribute-based-access-control-ABAC) - How traffic filtering can be solved with Azure ABAC.
 
-🍽️ Forked projects with additions:
+🍽️ Contributed to:
 
-- [flatcar-terraform](https://github.com/erwinkramer/flatcar-terraform) - Added DNS server setup via docker compose.
-- [nixos-on-azure](https://github.com/erwinkramer/nixos-on-azure) - Added DNS server setup via Arion.
-- [request-baskets](https://github.com/erwinkramer/request-baskets) - Added Bicep deployment template.
+- [Call DNB APIs as a partner 🎏](https://github.com/DeNederlandscheBank/call-dnb-apis-as-partner) - Created the initial design and architecture.
+- [Flatcar Terraform](https://github.com/erwinkramer/flatcar-terraform) - Added DNS server setup via docker compose.
+- [NixOS on Azure](https://github.com/erwinkramer/nixos-on-azure) - Added DNS server setup via Arion.
+- [Request Baskets](https://github.com/erwinkramer/request-baskets) - Added Bicep deployment template.
 
 🎴 My badges:
 
