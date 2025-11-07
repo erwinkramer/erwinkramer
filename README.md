@@ -22,6 +22,7 @@
 🍽️ Contributed to:
 
 - [Call DNB APIs as a partner 🎏](https://github.com/DeNederlandscheBank/call-dnb-apis-as-partner) - Created the initial design and architecture.
+- [IBMMQ Extension for Azure Functions](https://github.com/DavoBR/azure-functions-ibmmq-extension) - Added SSL authentication support.
 - [Flatcar Terraform](https://github.com/erwinkramer/flatcar-terraform) - Added DNS server setup via docker compose.
 - [NixOS on Azure](https://github.com/erwinkramer/nixos-on-azure) - Added DNS server setup via Arion.
 - [Request Baskets](https://github.com/erwinkramer/request-baskets) - Added Bicep deployment template.
