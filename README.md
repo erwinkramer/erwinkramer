@@ -2,6 +2,7 @@
 
 🐕‍🦺 My projects:
 
+- [Enframe 🔲](https://github.com/erwinkramer/enframe) - Drop-in sidecar that wraps any OpenAPI spec into a live MCP server.
 - [Bank API 🏦](https://github.com/erwinkramer/bank-api) - Design reference project suitable to bootstrap development for a compliant and modern API.
 - [Streaming logs to a Kusto Cluster 🤽🏻‍♂️](https://github.com/erwinkramer/kusto-event-hub-law) - Design and IaC setup for streaming various logs to a Kusto Cluster.
 - [Azure Pipelines Spectral Lint Task 👒](https://github.com/erwinkramer/ado-spectral) - Spectral Lint Task available at the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=erwinkramer.SpectralLint).
